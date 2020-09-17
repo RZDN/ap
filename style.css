@@ -1,0 +1,91 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: steelblue;
+}
+#menu{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+}
+#id-nosotros{
+    margin-right: 20px;
+}
+#id-Explora{
+    margin-right: 20px;
+}
+#id-sesion{
+    margin-top: 25px;
+}
+#sec-main{
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+#info{
+    position: absolute;
+    text-align: center;
+}
+#sec-main{
+
+    justify-content: center;
+}
+#fondo{
+width: 100%;
+}
+#nav-sec2{
+    margin-top: 40px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+#B-Inver{
+    width: 50%;
+    text-align: center;
+}
+#B-Empre{
+    width: 50%;
+    text-align: center;
+}
+#mitadDerecha{
+    display: flex;
+    padding: 40px;
+}
+#texto{
+    padding-right: 60px;
+    text-align: justify;
+    width: 50%;
+}
+#imagenesG{
+    display: flex;
+    width: 50%;
+    text-align: center;
+}
+#imagenes1{
+    margin-right: 10px;
+}
+#sec-2{
+    margin-top: 100px;
+}
+#mitadDerecha-s2{
+    display: flex;
+    padding: 40px;
+}
+#imagenesG-s3{
+    display: flex;
+    width: 50%;
+}
+#sec-3{
+    margin-top: 100px;
+}
+#texto-s2{
+    width: 50%;
+    text-align: justify;
+    padding-right: 60px;
+}
+.imgs{
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+}
